@@ -1,0 +1,8 @@
+name: PotionCalculator
+main: net.serubin.potioncalculator.PotionCalculator
+version: 0.2
+
+commands:
+   potion:
+      description: Command that calculates potion Ids based on user input
+      usage: /<command> [splash] <potion_type> [boost] - Calculates potion id
